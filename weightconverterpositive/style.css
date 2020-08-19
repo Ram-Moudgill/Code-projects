@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(20, 21, 26);
+}
+.container
+{
+    margin-top:30px ;
+}
+h1{
+    text-align: center;
+    color: rgba(207, 13, 46, 0.932);
+}
